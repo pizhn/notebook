@@ -1,2 +1,0 @@
-# notebooks
-miscellaneous stuff
